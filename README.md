@@ -56,5 +56,5 @@ Alexis Janin
 
 Bisous!
 
-![alt text](http://www.cbnews.fr/var/media/221/original/pinterest-220968.jpg)
+![alt text](https://www.skeelbox.com/wp-content/uploads/2017/02/pinterest-SEO-tips.jpg)
 
