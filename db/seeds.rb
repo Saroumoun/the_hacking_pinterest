@@ -17,3 +17,7 @@ end
 10.times do 
 	image = Image.create!(url: Faker::Internet.url, user: User.all.sample)
 end
+
+10.times do 
+	comment = Comment.create!(content: Faker::Lorem.sentence, user: User.all.sample, image: Image.all.sample)
+end
