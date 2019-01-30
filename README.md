@@ -18,6 +18,7 @@ Pour info, il y a trois modèles User, Image, Comment :
 * Comment a un attribut (content) et est associé à User et Image,
 
 Comment runner notre magnifique application :  
+
 1/ Clone the github : git clone https://github.com/Saroumoun/the_hacking_pinterest  
 
 ```
